@@ -1,0 +1,13 @@
+Section 1: General Awareness
+Web development is about developing and maintaining websites for various purposes like making info accessible to clients.
+
+HTML - HyperText Markup Language, this is basically the skeleton of the websites, used to structure content on the web page like text and images
+
+CSS - Cascading Style Sheets, this makes the websites look good by styling the HTML, eg by adding colors and fonts to the texts.
+
+Javascript - it is a programming language that adds functionality to the website, eg form validation and sometimes animations
+
+Node.js - a javascript runtime that allows javascript to run and be executed outside of the browser allowing for server-side development
+
+Learning Intentions:
+I want to learn to create good-looking dynamic apps and websites that I can imagine, + to quench my curiosity.
